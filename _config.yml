@@ -19,7 +19,7 @@ enable_smart_app_banner: true # Set to true to show a smart app banner at top of
 your_name: C Agency
 your_link: https://cagency.digital
 email_address: contact@cagency.dz
-facebook_username:
+facebook_username: https://facebook.com/cagency.digital
 instagram_username:
 twitter_username:
 github_username:
@@ -34,11 +34,11 @@ features:
 
   - title: Currency Conversion
     description: Convert foreign currencies to Algerian Dinar quickly and easily with an intuitive conversion tool.
-    fontawesome_icon_name: arrow-right-arrow-left
+    fontawesome_icon_name: right-left
 
   - title: Multi-Market Insights
     description: Compare exchange rates across official and parallel markets to make informed financial decisions.
-    fontawesome_icon_name: scale-balanced
+    fontawesome_icon_name: balanced
 
   - title: User-Friendly Interface
     description: Navigate effortlessly with a sleek, modern design tailored for simplicity and ease of use.
